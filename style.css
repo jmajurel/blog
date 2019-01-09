@@ -1,0 +1,32 @@
+
+.date {
+  color: rgb(255, 131, 0);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+body {
+  color: #feda4a;
+  font-family: 'Pathway Gothic One', sans-serif;
+  background: url(https://wallpapertag.com/wallpaper/full/c/5/0/278098-vertical-star-wars-background-1920x1080.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 20px rgba(255, 144, 0, 0.3) solid;
+  margin: 2.5% 40% 2.5% 2%;
+  padding: 2%;
+}
+
+p {
+  padding-left: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+h1 {
+  padding-left: 20px;
+}
+
+br {
+  border: 2px white solid;;
+}
